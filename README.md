@@ -14,11 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack applications**
 
-- 🤝 I’m looking for help with **back-end development (JavaScript)**
-
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
-
-- 📝 I regularly write articles on [coming soon...](coming soon...)
 
 - 💬 Ask me about **---ANYTHING---**
 
