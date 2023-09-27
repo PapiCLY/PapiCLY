@@ -1,3 +1,4 @@
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 <h1 align="center">Hi 👋, I'm Yehudah Christian</h1>
 <h3 align="center">A passionate Software Enginner from Kissimmee, FL</h3>
 
