@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Artist who enjoys programming 🎨👨🏽‍💻<>
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PapiCLY&theme=dark)](https://git.io/streak-stats)
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif">
+
