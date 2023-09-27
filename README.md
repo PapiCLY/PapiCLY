@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack applications**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at...
 
 - 💬 Ask me about **---ANYTHING---**
 
