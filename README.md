@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at...
 
-- 💬 Ask me about **----ANYTHING----**
+- 💬 Ask me about **----ANYTHING!----**
 
 - 📫 How to reach me **christianyehudah@gmail.com**
 
