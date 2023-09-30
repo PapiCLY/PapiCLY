@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **christianyehudah@gmail.com**
 
-- ⚡ Fun fact **Husband, Father, Artist, Programmer**
+- ⚡ Fun fact **🎨 👨🏽‍💻 🏋🏽‍♂️ 📖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
