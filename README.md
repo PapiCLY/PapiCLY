@@ -1,6 +1,5 @@
 ![Header](github-header-image.png)
- <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
- <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=papicly&label=Profile%20views&color=0e75b6&style=flat" alt="papicly" /> </p>
