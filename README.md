@@ -2,8 +2,6 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=papicly&label=Profile%20views&color=0e75b6&style=flat" alt="papicly" /> </p>
-
 <p align="center"> <img src="https://www.codewars.com/users/PapiCLY/badges/large" alt="papicly" /> </p>
 
 
