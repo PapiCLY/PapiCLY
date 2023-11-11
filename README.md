@@ -5,20 +5,6 @@
 <p align="center"> <img src="https://www.codewars.com/users/PapiCLY/badges/large" alt="papicly" /> </p>
 
 
-- 🔭 I’m currently working on [Dinner Generator](https://papicly.github.io/exercisetracker/)
-
-- 🌱 I’m currently learning **node.js - express.js - MongoDB - SQL - React**
-
-- 👯 I’m looking to collaborate on **Fullstack applications**
-
-- 👨‍💻 All of my projects are available at...
-
-- 💬 Ask me about **----ANYTHING!----**
-
-- 📫 How to reach me **christianyehudah@gmail.com**
-
-- ⚡ Fun fact **🎨 👨🏽‍💻 🏋🏽‍♂️ 📖**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
